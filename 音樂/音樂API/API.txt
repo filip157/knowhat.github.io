@@ -1,0 +1,7 @@
+Deezer API
+Last.fm API
+MusicBrainz
+Genius API
+Spotify Web API
+Apple Music API
+SoundCloud API
